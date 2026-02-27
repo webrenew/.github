@@ -14,7 +14,6 @@ Founded by [@charlesrhoward](https://github.com/charlesrhoward) & [@leahlhoward]
 | **[unicon](https://github.com/webrenew/unicon)** | Shadcn for icons. 19,000+ icons from every major library, unified |
 | **[drawit](https://github.com/webrenew/drawit)** | Excalidraw-inspired diagrams with agentic AI for generating flowcharts & wireframes |
 | **[models-dilemma](https://github.com/webrenew/models-dilemma)** | The Prisoner's Dilemma played by LLMs — AI cooperation & competition evals |
-| **[Tailwind-Theme-Previewer](https://github.com/webrenew/Tailwind-Theme-Previewer)** | Generate and preview Tailwind themes instantly |
 
 ---
 
