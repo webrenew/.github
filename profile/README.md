@@ -2,7 +2,7 @@
 
 **We build developer tools, AI-powered applications, and automations.**
 
-Founded by [@charlesrhoward](https://github.com/charlesrhoward) in Murrells Inlet, SC. We ship open-source software that helps developers and businesses move faster.
+Founded by [@charlesrhoward](https://github.com/charlesrhoward) & [@leahlhoward](https://github.com/leahlhoward) in Murrells Inlet, SC. We ship open-source software that helps developers and businesses move faster.
 
 ---
 
