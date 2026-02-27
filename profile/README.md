@@ -15,7 +15,6 @@ Founded by [@charlesrhoward](https://github.com/charlesrhoward) in Murrells Inle
 | **[drawit](https://github.com/webrenew/drawit)** | Excalidraw-inspired diagrams with agentic AI for generating flowcharts & wireframes |
 | **[models-dilemma](https://github.com/webrenew/models-dilemma)** | The Prisoner's Dilemma played by LLMs — AI cooperation & competition evals |
 | **[Tailwind-Theme-Previewer](https://github.com/webrenew/Tailwind-Theme-Previewer)** | Generate and preview Tailwind themes instantly |
-| **[channex-mcp](https://github.com/webrenew/channex-mcp)** | MCP server for Channex.io — manage properties and rates from any AI client |
 
 ---
 
