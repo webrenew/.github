@@ -26,6 +26,5 @@ Founded by [@charlesrhoward](https://github.com/charlesrhoward) & [@leahlhoward]
 
 <p>
   <a href="https://webrenew.com">🌐 webrenew.com</a> ·
-  <a href="https://webrenew.io">webrenew.io</a> ·
-  <a href="https://twitter.com/Chrls_Hwrd">𝕏 @Chrls_Hwrd</a>
+  <a href="https://x.com/WebRenew_">𝕏 @webrenew_</a>
 </p>
